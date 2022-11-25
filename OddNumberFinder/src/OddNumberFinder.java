@@ -4,7 +4,7 @@ public class OddNumberFinder {
 
 	public static void main(String[] args) {
 		
-		int total2=0, total = 0;
+		int total = 0;
 		
 		Scanner scanner = new Scanner(System.in);
 		boolean isOddNumber = false;
